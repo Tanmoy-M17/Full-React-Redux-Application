@@ -1,0 +1,278 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2022,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2014,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2013,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "name": "cerulean",
+      "year": 2000,
+      "color": "#98B2D1",
+      "pantone_value": "15-4020"
+    },
+    {
+      "id": 2,
+      "name": "fuchsia rose",
+      "year": 2001,
+      "color": "#C74375",
+      "pantone_value": "17-2031"
+    },
+    {
+      "id": 3,
+      "name": "true red",
+      "year": 2002,
+      "color": "#BF1932",
+      "pantone_value": "19-1664"
+    },
+    {
+      "id": 4,
+      "name": "aqua sky",
+      "year": 2003,
+      "color": "#7BC4C4",
+      "pantone_value": "14-4811"
+    },
+    {
+      "id": 5,
+      "name": "tigerlily",
+      "year": 2004,
+      "color": "#E2583E",
+      "pantone_value": "17-1456"
+    },
+    {
+      "id": 6,
+      "name": "blue turquoise",
+      "year": 2005,
+      "color": "#53B0AE",
+      "pantone_value": "15-5217"
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "cityslicka",
+      "id": 7
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "qw",
+      "id": 8
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "q",
+      "id": 9
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "q",
+      "id": 10
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "q",
+      "id": 11
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "q",
+      "id": 12
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "q",
+      "id": 13
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "cityslicka",
+      "id": 14
+    }
+  ]
+}
